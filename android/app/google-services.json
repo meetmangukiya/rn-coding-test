@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "294745385127",
+    "project_id": "react-native-coding-test",
+    "storage_bucket": "react-native-coding-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294745385127:android:544de3496d85b306e91382",
+        "android_client_info": {
+          "package_name": "com.rncodingtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294745385127-kclqil5l5ni6evjg0kmnl0p6agq27r52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv3-f_5Fr-PMZIpRDMyqA3_b9wr7tr50Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294745385127-kclqil5l5ni6evjg0kmnl0p6agq27r52.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "294745385127-2kpj5p94dsija80gpqvp6hv8610seqk1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "test.coding.react-native"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
